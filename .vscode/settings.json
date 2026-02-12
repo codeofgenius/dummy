@@ -46,15 +46,6 @@
     },
     "livePreview.openPreviewTarget": "Embedded Preview",
     "livePreview.serverKeepAliveAfterEmbeddedPreviewClose": 0,
-    //"livePreview.defaultPreviewPath": "/index.html",
     // "livePreview.autoRefreshPreview": "On All Changes in Editor",
     // "livePreview.debugOnExternalPreview": true,
-    // "livePreview.autoRefreshPreview": "On Changes to Saved Files",
-    // "livePreview": {
-    //     "defaultPreviewPath": "/index.html",
-    //     "autoRefreshPreview": "On All Changes in Editor",
-    // },
-    // "livePreview.autoRefreshPreview": "On All Changes in Editor",
-    // "livePreview.tasks.runTaskWithExternalPreview": true
-    // "livePreview.defaultPreviewPath": "/index.html", // 起動時のデフォルト
 }
